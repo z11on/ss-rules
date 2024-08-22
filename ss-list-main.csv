@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,abs-zero.twimg.com
 DOMAIN-SUFFIX,abs.twimg.com
 DOMAIN-SUFFIX,account-api.protonmail.com
 DOMAIN-SUFFIX,account.protonmail.com
+DOMAIN-SUFFIX,accounts.spotify.com
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,afcs.dellcdn.com
 DOMAIN-SUFFIX,aftermarket.schaeffler.com
@@ -124,6 +125,7 @@ DOMAIN-SUFFIX,forum.voynaplemyon.com
 DOMAIN-SUFFIX,gallery.zetalliance.org
 DOMAIN-SUFFIX,gateway.facebook.com
 DOMAIN-SUFFIX,geni.us
+DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,gitlab.io
@@ -230,6 +232,7 @@ DOMAIN-SUFFIX,oasis.app
 DOMAIN-SUFFIX,omv-extras.org
 DOMAIN-SUFFIX,onlineradiobox.com
 DOMAIN-SUFFIX,onlinesim.ru
+DOMAIN-SUFFIX,open.spotify.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,os.mbed.com
@@ -299,6 +302,8 @@ DOMAIN-SUFFIX,skyscanner.com
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,soapui.org
 DOMAIN-SUFFIX,sobesednik.ru
+DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,st.kinovod.net
 DOMAIN-SUFFIX,static.cdninstagram.com
 DOMAIN-SUFFIX,static.files.bbci.co.uk
