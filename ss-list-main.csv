@@ -1,8 +1,6 @@
 DOMAIN-SUFFIX,10minutemail.com
 DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,4pda.ru
-DOMAIN-SUFFIX,ai.google.dev
-DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,ab.chatgpt.com
 DOMAIN-SUFFIX,abook-club.ru
 DOMAIN-SUFFIX,abs-0.twimg.com
@@ -17,6 +15,8 @@ DOMAIN-SUFFIX,aftermarket.schaeffler.com
 DOMAIN-SUFFIX,aftermarket.zf.com
 DOMAIN-SUFFIX,agents.media
 DOMAIN-SUFFIX,agentura.ru
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,alberta.ca
 DOMAIN-SUFFIX,anilibria.tv
 DOMAIN-SUFFIX,aol.com
@@ -383,6 +383,7 @@ DOMAIN-SUFFIX,zetflix.online
 DOMAIN-SUFFIX,znanija.com
 DOMAIN-SUFFIX,zohomail.com
 DOMAIN-SUFFIX,zona.media
+DOMAIN-KEYWORD,bestchange
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,deepl
 DOMAIN-KEYWORD,foxnews
