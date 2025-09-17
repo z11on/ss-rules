@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,10minutemail.com
 DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,4pda.ru
@@ -150,7 +152,6 @@ DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,iichan.hk
 DOMAIN-SUFFIX,image.tmdb.org
-DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagram.fhrk1-1.fna.fbcdn.net
 DOMAIN-SUFFIX,instagram.fkun2-1.fna.fbcdn.net
@@ -162,7 +163,6 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,istories.media
 DOMAIN-SUFFIX,jetbrans.com
 DOMAIN-SUFFIX,jsfiddle.net
-DOMAIN-KEYWORD,kahoot
 DOMAIN-SUFFIX,kasparov.ru
 DOMAIN-SUFFIX,kavkaz-uzel.eu
 DOMAIN-SUFFIX,kemono.party
@@ -379,14 +379,14 @@ DOMAIN-SUFFIX,znanija.com
 DOMAIN-SUFFIX,zohomail.com
 DOMAIN-SUFFIX,zona.media
 DOMAIN-SUFFIX,ovd.info
-DOMAIN-KEYWORD,youtube,Proxy
-DOMAIN-KEYWORD,foxnews,Proxy
-DOMAIN-KEYWORD,notebooklm.google,Proxy
-DOMAIN-KEYWORD,notebooklm.google.com,Proxy
-DOMAIN-KEYWORD,truthsocial.com,Proxy
-DOMAIN-KEYWORD,lichess.org,Proxy
-DOMAIN-KEYWORD,deepl,Proxy
 DOMAIN-SUFFIX,meetup.com
-DOMAIN-KEYWORD,account.microsoft.com
-DOMAIN-KEYWORD,microsoft.com
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,kahoot
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,foxnews
+DOMAIN-KEYWORD,lichess
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,deepl
+DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,xbox.com
