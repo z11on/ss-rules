@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,bitcoin.org
+DOMAIN-SUFFIX,bitrefill.com
 DOMAIN-SUFFIX,bitru.org
 DOMAIN-SUFFIX,booktracker.org
 DOMAIN-SUFFIX,boosteroid.com
@@ -75,6 +76,7 @@ DOMAIN-SUFFIX,clamav.net
 DOMAIN-SUFFIX,cloud.mongodb.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,coinsbee.com
 DOMAIN-SUFFIX,colta.ru
 DOMAIN-SUFFIX,community.cisco.com
 DOMAIN-SUFFIX,connect.facebook.net
@@ -266,6 +268,7 @@ DOMAIN-SUFFIX,radarr.servarr.com
 DOMAIN-SUFFIX,radiosvoboda.org
 DOMAIN-SUFFIX,ratatype.ua
 DOMAIN-SUFFIX,raw-data.gitlab.io
+DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,redis.com
 DOMAIN-SUFFIX,refactoring.guru
 DOMAIN-SUFFIX,refinitiv.com
@@ -303,10 +306,10 @@ DOMAIN-SUFFIX,skladchik.com
 DOMAIN-SUFFIX,skladchina.biz
 DOMAIN-SUFFIX,skyscanner.com
 DOMAIN-SUFFIX,slideshare.net
+DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soapui.org
 DOMAIN-SUFFIX,sobesednik.ru
 DOMAIN-SUFFIX,soundcloud.com
-DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,st.kinovod.net
 DOMAIN-SUFFIX,static.cdninstagram.com
@@ -330,6 +333,7 @@ DOMAIN-SUFFIX,theins.press
 DOMAIN-SUFFIX,theins.ru
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,timberland.com
 DOMAIN-SUFFIX,tjournal.ru
@@ -351,6 +355,7 @@ DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,ufile.io
+DOMAIN-SUFFIX,ultimaker.com
 DOMAIN-SUFFIX,underver.se
 DOMAIN-SUFFIX,unfiltered.adguard-dns.com
 DOMAIN-SUFFIX,unian.net
@@ -384,10 +389,6 @@ DOMAIN-SUFFIX,zetflix.online
 DOMAIN-SUFFIX,znanija.com
 DOMAIN-SUFFIX,zohomail.com
 DOMAIN-SUFFIX,zona.media
-DOMAIN-SUFFIX,bitrefill.com
-DOMAIN-SUFFIX,coinsbee.com
-DOMAIN-SUFFIX,readdle.com
-DOMAIN-SUFFIX,theverge.com
 DOMAIN-KEYWORD,bestchange
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,deepl
